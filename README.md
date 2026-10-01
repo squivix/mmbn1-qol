@@ -42,6 +42,10 @@ Patch a copy of your ROM. Existing save files keep working; the patches change n
 - A few area names are shortened to fit the box (e.g. "Traffic Comp 1" instead of "Traffic Light Comp 1", "Plant Elevator").
 - A handful of rarely visited rooms may have no name; the box is simply not shown there.
 
+## Source
+
+The assembly source and build scripts are in [`src/`](src/) (MIT license). Building them reproduces the released patches exactly.
+
 ## Credits
 
 - Area IDs: vgperson's [MMBN Save Editor](https://github.com/vgperson/MMBNSaveEditor)
@@ -50,4 +54,4 @@ Patch a copy of your ROM. Existing save files keep working; the patches change n
 - Chip data: StraDaMa's [mmbn-chip-tables](https://github.com/StraDaMa/mmbn-chip-tables)
 - Tools: armips (Kingcom), Floating IPS (Alcaro), mGBA (endrift), Ghidra
 
-Mega Man Battle Network is © Capcom. This project distributes patches only, no game data.
+Mega Man Battle Network is © Capcom. This project distributes patches and source code only, no ROMs.
