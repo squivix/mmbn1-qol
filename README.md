@@ -4,7 +4,7 @@ Two small fixes for Mega Man Battle Network 1 (GBA), borrowed from what the late
 
 | Chip codes on the Custom Screen | Area names in the pause menu |
 |---|---|
-| ![Custom Screen](screenshots/custom_screen.png) | ![Pause menu](screenshots/pause_menu.png) |
+| <img src="screenshots/custom_screen.png" width="480" alt="Custom Screen"> | <img src="screenshots/pause_menu.png" width="480" alt="Pause menu"> |
 
 - **Chip codes on the Custom Screen.** Every chip shows its code letter in the corner of its icon, so you no longer have to move the cursor over each chip. Works on every row after ADD, and the letter greys out with the chip when it can't be picked.
 - **Area names in the pause menu.** A box at the bottom-right shows where you are, like BN2 ("Internet 3", "Undernet 7", "WWW Comp 2", "Lan's Room", …). It slides in with the Zenny box and uses the game's own font. Covers the whole Net, every comp and homepage, and the real-world rooms.
